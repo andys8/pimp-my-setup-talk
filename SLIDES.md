@@ -67,3 +67,13 @@
 - colorpicker
 - unclutter
 - sent
+
+## TODO
+
+- Find interesting examples or workflows
+  - Suckless Philosophy
+  - Vim Bindings everywhere
+  - Help with commands
+  - Haskell configured programs
+  - Deterministic setup with nix
+- Show them and mention programs afterwards
