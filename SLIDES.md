@@ -3,8 +3,8 @@
 ## Agenda
 
 - System
-- Window Manager
 - Terminal
+- Window Manager
 - Applications
 - Navigation
 - Editor
@@ -14,7 +14,7 @@
 
 - Manjaro (Arch) / Mint (Debian)
 - Nix
-- dotfile scripts
+- dotfiles scripts
 
 ## Terminal
 
@@ -48,13 +48,14 @@
 - bottom / ytop
 - autorandr
 - dragon
-- hyperfine
-- cheat.sh
 - ack
 - fd
+- hyperfine `hyperfine "fd haskell" "find . -name '_haskell_'"`
+- cheat.sh `curl cheat.sh/sed` `curl cheat.sh/tar`
 - hub / gh
 - tig
 - git-brunch
 - colorpicker
 - unclutter
 - trash-cli
+- sent
