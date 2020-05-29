@@ -16,16 +16,16 @@
 - Nix
 - dotfile scripts
 
-## Window Manager
-
-- Xmonad
-
 ## Terminal
 
 - st
 - Alacritty
 - Termonad
 - fish
+
+## Window Manager
+
+- Xmonad
 
 ## Browser
 
