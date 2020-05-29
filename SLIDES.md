@@ -31,11 +31,28 @@
 
 - Qutebrowser
 
-## Navigation
+## Help
+
+- man
+- explainshell
+- cheat.sh `curl cheat.sh/sed` `curl cheat.sh/tar`
+
+## Filesystem
 
 - Ranger
 - Autojump
 - rofi
+- ack
+- fd
+- hyperfine `hyperfine "fd haskell" "find . -name '_haskell_'"`
+- dragon
+- trash-cli
+
+## Git
+
+- tig
+- git-brunch
+- hub / gh
 
 ## Editor
 
@@ -45,17 +62,8 @@
 
 - zathura
 - sxiv
-- bottom / ytop
+- bottom (ytop)
 - autorandr
-- dragon
-- ack
-- fd
-- hyperfine `hyperfine "fd haskell" "find . -name '_haskell_'"`
-- cheat.sh `curl cheat.sh/sed` `curl cheat.sh/tar`
-- hub / gh
-- tig
-- git-brunch
 - colorpicker
 - unclutter
-- trash-cli
 - sent
