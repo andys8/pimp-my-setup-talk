@@ -47,6 +47,7 @@
 - hyperfine `hyperfine "fd haskell" "find . -name '_haskell_'"`
 - dragon
 - trash-cli
+- glow / bat / mdcat / mdp
 
 ## Git
 
