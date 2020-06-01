@@ -58,6 +58,7 @@
 ## Editor
 
 - Vim
+- xkill
 
 ## Applications
 
