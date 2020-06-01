@@ -10,6 +10,11 @@
 - Editor
 - Applications
 
+## Screenkey
+
+- screenkey
+- Enable/Disable with both CTRL keys
+
 ## System
 
 - Manjaro (Arch) / Mint (Debian)
