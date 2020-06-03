@@ -2,90 +2,126 @@
 
 ## Agenda
 
-- System
-- Terminal
-- Window Manager
-- Applications
-- Navigation
-- Editor
-- Applications
+- Vim Bindings everywhere
+- Suckless Philosophy
+- Haskell configured programs
+- Help with commands
+- Deterministic setup with nix
 
 ## Questions and Comments
 
-In the chat box
-
-## Screenkey
-
-- screenkey
-- Enable/Disable with both CTRL keys
+- In the chat box
+- Or ask
 
 ## System
 
-- Manjaro (Arch) / Mint (Debian)
-- Nix
-- dotfiles scripts
+- Manjaro (Arch)
+- Mint (Debian)
 
-## Terminal
+## Dotfiles Scripts
 
-- st
-- Alacritty
-- Termonad
-- fish
+- Git: Sharable, easy restore/revert
+- Symlinks
+- Check post and preconditions
 
-## Window Manager
+<https://github.com/andys8/dotfiles/tree/master/scripts>
 
-- Xmonad
+## Nix Package Manager
 
-## Browser
+- Deterministic
+- Easy rollbacks
 
-- Qutebrowser
-- vieb
+<https://github.com/andys8/dotfiles/tree/master/nix>
+<https://nixos.org/nixos/packages.html>
 
-## Help
+## Suckless Terminal
+
+- Suckless Philosophy
+- Build your own terminal
+- Patches, no config
+
+<https://st.suckless.org>
+<https://github.com/andys8/st>
+
+Alternatives: Termonad (Haskell), Alacritty (Rust)
+
+## Shell: Fish
+
+- Fish
+- Autocompletion (e.g. `git status`)
+- Hybrid keybindings
+- Oh my Fish
+- Bob the fish theme
+
+<https://github.com/oh-my-fish/oh-my-fish>
+
+## Screenkey
+
+- Show typed keys
+- Enable/Disable with both CTRL keys
+
+## Window Manager: Xmonad
+
+- Tiling Window Manager
+- Workspaces
+- Layouts
+- Xmobar
+- Alternative: i3
+
+<https://github.com/andys8/dotfiles/blob/master/xmonad/xmonad.hs>
+
+## Browser: Qutebrowser
+
+- Browser with Vim bindings
+- Highly customizable
+- Follow links (f)
+- Open text field in Vim (alt+i)
+- Open URL in Vim (alt+d)
+- Scripts: qrcode + chromium
+- Alternative: vieb
+
+<https://github.com/andys8/dotfiles/blob/master/qutebrowser/config.py>
+
+## Help with command line tools
 
 - man
-- explainshell
 - cheat.sh `curl cheat.sh/sed` `curl cheat.sh/tar`
+- explainshell
 
-## Filesystem
+## [Bonus] Applications
 
-- Ranger
-- Autojump
+Short demo of interesting applications
+
+### Editor: Vim
+
+- Vim
+- `:!xkill`
+
+### Git
+
+- tig
+- git-brunch
+- hub
+- gh
+
+### Filesystem
+
+- ranger
+- autojump
 - rofi
 - ack
 - fd
-- hyperfine `hyperfine "fd haskell" "find . -name '_haskell_'"`
+- hyperfine
 - dragon
 - trash-cli
 - glow / bat / mdcat / mdp
 
-## Git
+### Applications
 
-- tig
-- git-brunch
-- hub / gh
-
-## Editor
-
-- Vim
-- xkill
-
-## Applications
-
+- bottom (ytop)
+- unclutter
 - zathura
 - sxiv
-- bottom (ytop)
 - autorandr
 - colorpicker
-- unclutter
 - sent
-
-## TODO
-
-- Find interesting examples or workflows
-  - Suckless Philosophy
-  - Vim Bindings everywhere
-  - Help with commands
-  - Haskell configured programs
-  - Deterministic setup with nix
-- Show them and mention programs afterwards
