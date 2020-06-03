@@ -2,8 +2,8 @@
 
 ## Agenda
 
-- Vim Bindings everywhere
-- Suckless Philosophy
+- Vim bindings everywhere
+- Suckless philosophy
 - Haskell configured programs
 - Help with commands
 - Deterministic setup with nix
@@ -23,6 +23,7 @@
 - Git: Sharable, easy restore/revert
 - Symlinks
 - Check post and preconditions
+- Update scripts
 
 <https://github.com/andys8/dotfiles/tree/master/scripts>
 
