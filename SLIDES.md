@@ -107,7 +107,7 @@ Short demo of interesting applications
 
 ### Filesystem
 
-- ranger
+- ranger (e.g. `:bulkrename`)
 - autojump
 - rofi
 - ack
