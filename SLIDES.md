@@ -10,6 +10,10 @@
 - Editor
 - Applications
 
+## Questions and Comments
+
+In the chat box
+
 ## Screenkey
 
 - screenkey
@@ -35,6 +39,7 @@
 ## Browser
 
 - Qutebrowser
+- vieb
 
 ## Help
 
