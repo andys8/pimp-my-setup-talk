@@ -107,22 +107,24 @@ Short demo of interesting applications
 
 ### Filesystem
 
-- ranger (e.g. `:bulkrename`)
-- autojump
-- rofi
-- ack
-- fd
-- hyperfine
-- dragon
-- trash-cli
-- glow / bat / mdcat / mdp
+- ranger (e.g. `:bulkrename`) (File Browser)
+- autojump (Fuzzy Jump)
+- rofi (dmenu)
+- ack (grep)
+- fd (find)
+- hyperfine (Benchmark)
+- dragon (Drag and Drop)
+- trash-cli (Save Delete)
+- glow / bat / mdcat (Markdown)
 
 ### Applications
 
-- bottom (ytop)
-- unclutter
-- zathura
-- sxiv
-- autorandr
+- mdp / sent (Presentations)
+- bottom (System Monitor, Alternative: ytop, htop)
+- unclutter (Hide mouse)
+- zathura (PDF)
+- sxiv (Images)
+- autorandr (Displays)
 - colorpicker
-- sent
+
+### End
