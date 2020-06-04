@@ -5,8 +5,9 @@
 - Vim bindings everywhere
 - Suckless philosophy
 - Haskell configured programs
-- Help with commands
 - Deterministic setup with nix
+- Help with commands
+- Useful command line applications
 
 ## Questions and Comments
 
